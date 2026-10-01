@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+task1/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+notebooks/
+src/understanding_task.txt
+.streamlit/secrets.toml
